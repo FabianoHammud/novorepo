@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100&display=swap');
+body {
+    background-color: #121214;
+    font-family: 'IBM Plex Sans', Arial;
+    
+
+}
+
+
+.logo {
+    
+    margin: 42px auto 0px auto;
+    display: flex;
+     
+    
+
+}
+header {
+    
+    display: flex;
+    
+}
+
+.question {
+    
+    font-size: 32px;
+    color: #FFFFFF;
+    font-weight: 600;
+    line-height: 42px;
+    justify-content: center;
+    display: flex;
+    
+
+}
+.quem {
+    display: flex;
+    justify-content: center;
+    margin: 73px auto 61px auto;
+}
+ul {
+    
+    
+    display: flex;    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: #9C9C9C;
+    justify-content: space-between;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    
+    
+    
+    
+}
+.usu1 {
+    display: flex;
+    width: 160px;
+    height: 160px;
+
+    
+}
+.usu2 {
+    
+    display: flex;
+    width: 160px;
+    height: 160px;
+    
+    
+    
+}
+.usu3 {
+    
+    display: flex;
+    width: 160px;
+    height: 160px;
+    
+    
+    
+}
+.usu4 {
+    
+    display: flex;
+    width: 160px;
+    height: 160px;
+    
+    
+    
+}
+
+.img1 {
+    border-radius: 7px;
+    
+}
+.img1:hover{
+    transform: scale(1.1);  
+    transition: 1s;
+    
+   
+    
+  
+
+}
+.img2 {
+    border-radius: 7px;
+}
+.img2:hover{
+    transform: scale(1.1);  
+    transition: 1s;
+    
+
+}
+.img3 {
+    border-radius: 7px;
+}
+.img3:hover{
+    transform: scale(1.1);  
+    transition: 1s;
+    
+
+}
+.img4 {
+    border-radius: 7px;
+}
+.img4:hover{
+   
+   filter: brightness(200%);
+   
+}
+li {
+    display: flex;
+    justify-content: center;
+}
+.gerper {
+    
+    font-size: 16px;
+    color: #FFFFFF;
+    display: flex;
+    padding: 14px 44px 15px 44px;
+    line-height: 21px;
+    font-weight: 500;
+    
+    
+    justify-content: center;
+    
+    Width: 206px;
+    Height: 50px;    
+    border: 1.5px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-weight: bold;
+    
+    
+
+}
+
+.gerper:hover{
+    background-color: #FFFFFF;
+    color: black;
+    font-weight: bold;
+}
+footer {    
+    justify-content: center;    
+    display: flex;
+    margin: 102px auto;
+    
+}
+
+figcaption {
+        margin-top: 16px;
+        
+}
